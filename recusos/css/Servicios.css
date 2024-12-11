@@ -110,7 +110,7 @@ p,a {
 .header {
     background-image: linear-gradient(rgba(0, 0, 0, 0.7),
             rgba(0, 0, 0, 0.7)),
-        url(imagenes/inicio/bg.jpg);
+        url(recusos/cssimagenes/Inicio/bg.jpg);
     background-repeat: no-repeat;
     min-height: 70rem;
     background-size: cover;
