@@ -122,7 +122,7 @@ formularioLogin.addEventListener('submit', (e) => {
         // Guarda los datos del usuario en localStorage para mostrarlos en menu.html
         localStorage.setItem('usuarioActivo', JSON.stringify(usuario));
         // Redirige a menu.html
-        window.location.href = "login/menu.html";
+        window.location.href = "../menu.html";
     } else {
         alert('Correo o contraseña incorrectos.');
     }
